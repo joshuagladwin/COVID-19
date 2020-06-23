@@ -1,6 +1,9 @@
 # COVID-19
 Tracking the COVID-19 Outbreak using the data from European Centre of Disease Prevention and Control, the [EDCD](https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide), which is updated daily with the latest figures from disease centres around the world.
 
+You can view and interact with the Plotly charts in the notebook [here](https://nbviewer.jupyter.org/github/joshuagladwin/COVID-19/blob/master/COVID-19.ipynb).
+
+
 ## Update 8th June 2020
 
 * Converted Matplotlib graphs to Plotly.
