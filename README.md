@@ -3,6 +3,10 @@ Tracking the COVID-19 Outbreak using the data from European Centre of Disease Pr
 
 You can view and interact with the Plotly charts in the notebook [here](https://nbviewer.jupyter.org/github/joshuagladwin/COVID-19/blob/master/COVID-19.ipynb).
 
+##Update 7th December 2020
+
+* Added Choropleth chart showing EU Cases per 100,000 (14-Day Rolling Window)
+
 ## Update 28th September 2020
 
 * Added loop to iterate through country comparisons automatically
